@@ -1,5 +1,5 @@
 # 🏰 魔王軍火庫與女兒防衛系統 
-# (Monster Shopping & Battle System)
+(Monster Shopping & Battle System)
 
 > **「為了守護女兒的笑容，魔王爸爸 (Maopapa) 建立了最強的地下軍火供應鏈！」**
 
